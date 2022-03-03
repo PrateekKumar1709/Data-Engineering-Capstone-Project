@@ -26,7 +26,7 @@ Data Pipelines - Apache Airflow
 
 ## Architecture:
 
-![image]()
+![image](https://github.com/PrateekKumar1709/Data-Engineering-Capstone-Project/blob/main/Architecture/data_platform_architecture.png)
 
 
 ## Implementation:
