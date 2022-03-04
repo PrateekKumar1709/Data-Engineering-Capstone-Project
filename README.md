@@ -1,5 +1,4 @@
 # Data-Engineering-Capstone-Project
-A Data Engineering Capstone Project.
 
 ## Overview:
 
