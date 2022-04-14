@@ -1,5 +1,7 @@
 # Data-Engineering-Capstone-Project
 
+This project is currently in progress.
+
 ## Overview:
 
 In this Data Engineering project I have simulated a data platform architecture of an ecommerce organisation which uses a hybrid architecture, with some of its databases on premises and some on cloud.
